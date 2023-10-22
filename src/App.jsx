@@ -1,5 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
+import '../App.css';
+import 'animate.css/animate.min.css';
 import LivingRoomPic from './z4789498449283_c248779711b8f486c5e2bb22deb1c1bd.jpg';
 import LivingRoomPic2 from './z4789498840758_d4f6411cd73176cf0d3b03c1077d8212.jpg';
 import BedRoomPic from './z4789498737744_9960237149d403ae37ef7693101a9126.jpg';
