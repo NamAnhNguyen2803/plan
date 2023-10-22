@@ -1,5 +1,24 @@
 import React from 'react'
 import { useState } from 'react'
+import LivingRoomPic from './z4789498449283_c248779711b8f486c5e2bb22deb1c1bd.jpg';
+import LivingRoomPic2 from './z4789498840758_d4f6411cd73176cf0d3b03c1077d8212.jpg';
+import BedRoomPic from './z4789498737744_9960237149d403ae37ef7693101a9126.jpg';
+import Furniture from './z4789498162523_88b0bbddc75825da36c80c8d64d5bd8d.jpg'
+import ChinhDung from './DSCF8872.jpg';
+import Tham from './tham.jpg'
+import JaggerDecor from './JagerDecor.jpg';
+import JaggerHome from './JagerHome.jpg';
+import Furniture2 from './noithat-cut.jpg'
+import Light from './light.jpg'
+import Tham1 from './tham1.jpg'
+import Tham2 from './tham2.jpg'
+import LamViec from './lamviec.jpg'
+import Bep from './bep-cut.jpg'
+import NTKXuanChinh from './DSCF8880 (1).jpg'
+import ChenDia from './ChenDia.jpg'
+import DenChum from './denchum.jpg'
+import Tranh from './Tranh.jpg'
+import Tranh1 from './Tranh1.jpg'
 export default function App() {
   const [toDo, setToDo] =useState(' ');
   const [submittedToDo,setSubmittedToDO] =useState([]);
